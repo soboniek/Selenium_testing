@@ -55,7 +55,7 @@ class SalesManagoTest(unittest.TestCase):
         time.sleep(2)
         input_name.send_keys('Test')
         time.sleep(2)
-        input_email.send_keys('olga.lepecka.benhauer+test@salesmanago.com')
+        input_email.send_keys('olga.lepecka.benhauer+testrekrutacja@salesmanago.com')
         time.sleep(2)
         input_company.send_keys('Testing comp.')
         time.sleep(2)
